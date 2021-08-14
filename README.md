@@ -11,5 +11,5 @@ I have [resources](https://developers.facebook.com/docs/pages/publishing/) and [
 ## Register your app in Facebook for developers
 Before you can integrate the Facebook login and content publishing in the React app, you have to set up your app in [Facebook for developers](https://developers.facebook.com/)
 
-## How to enable posting on a page
+## enable posting on a page
 Go to https://developers.facebook.com/tools/explorer/
